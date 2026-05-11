@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS extension with Alfred for macOS premium Extension - version history and auto-sync. Featuring version history and auto-sync, it's the best choice
 
 
 
